@@ -1,7 +1,7 @@
 # Next Word Prediction using MLP
 
 - Built a **word-level next-word prediction model** using a Multi-Layer Perceptron (MLP).
-- Used *The Adventures of Sherlock Holmes* dataset from **Project Gutenberg**.
+- Used *The Adventures of Sherlock Holmes* dataset from **Project Gutenberg [https://www.gutenberg.org/files/1661/1661-0.txt](https://www.gutenberg.org/files/1661/1661-0.txt)**.
 - Cleaned the raw text by:
   - Converting all text to lowercase
   - Removing special characters
